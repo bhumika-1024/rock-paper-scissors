@@ -38,8 +38,3 @@ The user plays against the computer, and scores are updated dynamically.
 - Use of event listeners for interactivity.
 - Random choice generation with `Math.random()`.
 - Game logic implementation with conditions.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
